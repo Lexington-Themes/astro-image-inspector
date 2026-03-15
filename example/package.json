@@ -1,0 +1,16 @@
+{
+  "name": "astro-image-inspector-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "@lexingtonthemes/astro-image-inspector": "file:.."
+  }
+}
