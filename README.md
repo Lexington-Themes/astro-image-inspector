@@ -76,4 +76,4 @@ Ensure you are logged in (`npm login`) and have access to the `lexingtonthemes` 
 
 ## License
 
-MIT © [Lexington Themes](https://www.npmjs.com/settings/lexingtonthemes/packages)
+MIT © [Lexington Themes](https://lexingtonthemes.com/)
