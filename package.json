@@ -37,7 +37,7 @@
     "inspector",
     "lexingtonthemes"
   ],
-  "homepage": "https://github.com/lexingtonthemes/astro-image-inspector#readme",
+  "homepage": "https://github.com/lexingtonthemes/astro-image-inspector",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lexingtonthemes/astro-image-inspector.git"
