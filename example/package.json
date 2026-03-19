@@ -8,7 +8,9 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.0.0"
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.0.6",
+    "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
     "@lexingtonthemes/astro-image-inspector": "file:.."
